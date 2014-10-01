@@ -1,6 +1,6 @@
 {
   "name": "firebase-es6-shim",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A shim for turning Firebase into an ES6 module",
   "homepage": "https://github.com/mbykovskyy/firebase-es6-shim",
   "author": "Maksym Bykovskyy",
