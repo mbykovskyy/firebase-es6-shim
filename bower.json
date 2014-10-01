@@ -1,0 +1,20 @@
+{
+  "name": "firebase-es6-shim",
+  "version": "0.0.0",
+  "description": "A shim for turning Firebase ES6 module",
+  "homepage": "https://github.com/mbykovskyy/firebase-es6-shim",
+  "author": "Maksym Bykovskyy",
+  "license": "MIT",
+  "main": "firebase-es6-shim.js",
+  "keywords": [
+    "firebase",
+    "shim",
+    "es6"
+  ],
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "firebase": "*"
+  }
+}
