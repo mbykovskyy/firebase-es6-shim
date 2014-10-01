@@ -1,5 +1,5 @@
 # firebase-es6-shim
-A shim for turning [Firebase][firebase] ES6 module
+A shim for turning [Firebase][firebase] into an ES6 module
 
 ## Install
 
